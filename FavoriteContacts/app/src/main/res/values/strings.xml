@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FavoriteContacts</string>
+    <string name="favorite1">Ongo Gablogian</string>
+    <string name="favorite2">Jonathan Wick</string>
+    <string name="favorite3">Waldo</string>
+    <string name="number1">(789)-302-0492</string>
+    <string name="number2">(534)-948-9020</string>
+    <string name="number3"> (294)-302-0394</string>
+    <string-array name="helloTranslations">
+        <item>Hello Friend!</item>
+        <item>Guten-Tag!</item>
+        <item>Buenos Dias!</item>
+    </string-array>
+</resources>
